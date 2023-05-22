@@ -1,0 +1,8 @@
+title: "Seizure Contest"
+description: A machine learning competition on EEG seizure detection.
+google_analytics:
+theme: jekyll-theme-cayman
+
+
+url: "https://bdsp-core.github.io/Seizures-and-Harmful-Brain-Activity/"
+baseurl: "/"
