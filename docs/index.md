@@ -10,13 +10,13 @@ Authors:
   - name: Jin Jing
     url: https://bdsp-core.github.io/team/
     aff: Instructor in Neurology @ Harvard Medical School
-    image: assets/images/jj.png 
+    image: assets/images/jj.png
     email: jjing@bidmc.harvard.edu
 
   - name: Zhen Lin
     url: https://zlin7.github.io/
     aff: PhD@UIUC
-    image: assets/images/zhen.png 
+    image: assets/images/zhen.png
     email: zhenlin4@illinois.edu
 
   - name: Chaoqi Yang
@@ -28,19 +28,18 @@ Authors:
   - name: Jimeng Sun
     url: https://sunlab.org/
     aff: CS Professor @ UIUC
-    image: assets/images/jimeng.png 
+    image: assets/images/jimeng.png
     email: jimeng.sun@gmail.com
 
   - name: M. Brandon Westover
     url: https://bdsp-core.github.io/team/
-    aff: Professor of Neurology @ Harvard Medical School 
-    image: assets/images/mbw.jpeg 
+    aff: Professor of Neurology @ Harvard Medical School
+    image: assets/images/mbw.jpeg
     email: bwestove@bidmc.harvard.edu
 
 
 
 ---
-
 <p align="center">
     <img src="assets/images/head.jpeg" style="border-radius: 2%;" width="75%">
 </p>
